@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm DHURGAPRIYA.R</h1>
 <h3 align="center">SOFTWARE DEVELOPER</h3>
 
-- 🔭 I’m currently working on **SMART SHOOPING**
+- 🔭 MY PROJECT **ADVANCE AI ATM SECURITY**
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
-
-- 👯 I’m looking to collaborate on **JOB TRACKER APP**
-
-- 🤝 I’m looking for help with **ADVANCED ATM SECURTIY SYSTEM**
 
 - 📫 How to reach me **ammuramesh108@gmail.com**
 - 
